@@ -1,3 +1,3 @@
 # web-crawler-practice
-first repository (practice) on GitHub
+first repository on GitHub
 for practice purposes
